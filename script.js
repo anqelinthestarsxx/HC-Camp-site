@@ -32,3 +32,6 @@ function backToTop() {
         behavior: "smooth"
     });
 }
+
+updateGreeting();
+updateTime();
